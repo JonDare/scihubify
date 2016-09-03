@@ -34,5 +34,10 @@
       {"value": "scihub22266oqcxt.onion.link",
        "label": "scihub22266oqcxt.onion.link (Hosted on Tor, but sent over clearnet)"}
     ]
+  }, {
+    "name": "scihubSecure",
+    "title": "Use secure connection",
+    "type": "bool",
+    "value": true
   }]
 }
