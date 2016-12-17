@@ -4,7 +4,7 @@
   "version": "0.2.3",
   "description": "Open Links on Sci-Hub, search for selected text on Sci-Hub",
   "main": "index.js",
-  "author": "Rev. Wicks Cherrycoke",
+  "author": "JonDare, based on Rev. Wicks Cherrycoke work",
   "engines": {
     "firefox": ">=38.0a1",
     "fennec": ">=38.0a1"
@@ -27,10 +27,13 @@
        "label": "sci-hub.io"},
       {"value": "sci-hub.ac",
        "label": "sci-hub.ac"},
-      {"value": "80.82.78.170",
-       "label": "80.82.78.170"},
       {"value": "scihub22266oqcxt.onion",
        "label": "scihub2226oqcxt.onion (only for Tor users)"}
     ]
+  }, {
+    "name": "scihubSecure",
+    "title": "Use secure connection",
+    "type": "bool",
+    "value": true
   }]
 }
