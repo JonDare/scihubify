@@ -28,7 +28,8 @@
       {"value": "sci-hub.ac",
        "label": "sci-hub.ac"},
       {"value": "scihub22266oqcxt.onion",
-       "label": "scihub2226oqcxt.onion (only for Tor users)"}]
+       "label": "scihub2226oqcxt.onion (only for Tor users)"}
+    ]
   }, {
     "name": "scihubSecure",
     "title": "Use secure connection",
